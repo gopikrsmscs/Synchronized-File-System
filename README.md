@@ -32,7 +32,7 @@ Open New Terminal and Run the below command to start the Helper Thread.
 	3.java SyncHelperThread
 ```
 #### OUTPUT
-![Screenshot](client.png)
+![Screenshot](Client.png)
 
 Initially we sync all the files that are present in the `src/clientfiles/` with the server folder `src/serverfiles/`.
 
